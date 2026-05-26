@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am a passionate videographer, video editor, motion graphic designer, and 2D animator with over 5 years of experience. I have a strong understanding of the video editing process, from pre-production to post-production, and I am proficient in various video editing software, including Adobe Premiere Pro, After Effects, and Photoshop. I also have a good understanding of the video production process. I am a creative thinker and a hard worker. I am always seeking new challenges and opportunities to learn and grow up. I believe that I can be an asset to your team and help you create high-quality videos that engage and inspire. I am available for freelance work or full-time employment. Please feel free to contact me at muhamadsurya.amd@gmail.com.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
